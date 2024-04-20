@@ -38,7 +38,7 @@ If you encounter any bug, error and crash you can contact me on facebook.
 #
 # DOWNLOAD
 <!-- Click the download button to download latest release app. -->
-[<a href="default.asp"><img src="https://static.vecteezy.com/system/resources/previews/028/549/489/original/green-download-button-free-png.png"
+[<a href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf"><img src="https://static.vecteezy.com/system/resources/previews/028/549/489/original/green-download-button-free-png.png"
      alt="Get it on Google Play"
      height="80"></a>]()
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
