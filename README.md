@@ -5,6 +5,9 @@ Facebook Lite Clone Hide information into Facebook accounts with many
 - [Download all zip files](#)
 - [IMAGES](#images)
 - [FUTURE UPDATES](#future-updates)
+
+Visit
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FN47Noob%2FFecebook-lite-Clone-100-app%2F&count_bg=%2379C83D&title_bg=%232A2929&icon=buzzfeed.svg&icon_color=%23E6D9D9&title=Visit+Counter&edge_flat=false)](https://hits.seeyoufarm.com)
 #
 # DESCRIPTION 
