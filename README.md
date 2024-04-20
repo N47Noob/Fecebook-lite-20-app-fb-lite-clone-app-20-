@@ -25,12 +25,13 @@ This app is in beta phase so maybe you can encounter with bugs and crashes.
 #
 
 # IMAGES
-![alt text](https://github.com/zaidrao/Facebook-Lite-Plus/blob/main/Images/pic1.jpg)
+![alt text](https://github.com/N47Noob/Fecebook-lite-Clone-100-app/blob/main/Images/1.jpg)
 #
-![alt text](https://github.com/zaidrao/Facebook-Lite-Plus/blob/main/Images/pic2.jpg)
+![alt text](https://github.com/N47Noob/Fecebook-lite-Clone-100-app/blob/main/Images/2.jpg)
 #
-![alt text](https://github.com/zaidrao/Facebook-Lite-Plus/blob/main/Images/pic3.jpg)
+![alt text](https://github.com/N47Noob/Fecebook-lite-Clone-100-app/blob/main/Images/3.jpg)
 #
+![alt text](https://github.com/N47Noob/Fecebook-lite-Clone-100-app/blob/main/Images/4.jpg)
 #
 # FUTURE UPDATES
 In future if I got good response from you I'll definitely update it.
