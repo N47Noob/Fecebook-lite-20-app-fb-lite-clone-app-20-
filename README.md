@@ -1,9 +1,8 @@
-# Fecebook-lite-Clone-100-app
 # Facebook Lite clone 100 app
 Facebook Lite Clone Hide information into Facebook accounts with many featurs.
 
 - [DESCRIPTION](#description)
-- [FEATURES](#features)
+- [Download all zip files](#)
 - [IMAGES](#images)
 - [FUTURE UPDATES](#future-updates)
 - [DOWNLOAD](#download)
