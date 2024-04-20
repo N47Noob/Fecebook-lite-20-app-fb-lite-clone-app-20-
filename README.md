@@ -1,11 +1,10 @@
 # Facebook Lite clone 100 app
-Facebook Lite Clone Hide information into Facebook accounts with many featurs.
-
+Facebook Lite Clone Hide information into Facebook accounts with many  
+- [DOWNLOAD](#download)
 - [DESCRIPTION](#description)
 - [Download all zip files](#)
 - [IMAGES](#images)
 - [FUTURE UPDATES](#future-updates)
-- [DOWNLOAD](#download)
 #
 # DESCRIPTION 
 Facebook Lite Plus is an android application which provides you a good interface to login multiple facebook accounts with multiple mode and some other customizations.
