@@ -56,10 +56,8 @@ If you encounter any bug, error and crash you can contact me on facebook.
 
 ## Installation
 
-1. Download [Composer](not) or update `composer self-update`.
-2. Run `php composer.phar create-project --prefer-dist cakephp/app [app_name]`.
-
-If Composer is installed globally, run
+1. Download App
+2. install Then, run
 
 
 ## Update
