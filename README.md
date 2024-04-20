@@ -40,6 +40,12 @@ If you encounter any bug, error and crash you can contact me on facebook.
 <!-- Click the download button to download latest release app. -->
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
      alt="Get it on Google Play"
+     height="80">
+     <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+     alt="Get it on Google Play"
+     height="80">
+     <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+     alt="Get it on Google Play"
      height="80">]()
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 <!-- [![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")](https://github.com/zaidrao/Facebook-Lite-Plus/releases/download/15/Lite+.1.5.apk) -->
