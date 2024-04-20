@@ -5,8 +5,8 @@ Facebook Lite Clone Hide information into Facebook accounts with many
 - [Download all zip files](#)
 - [IMAGES](#images)
 - [FUTURE UPDATES](#future-updates)
- <a href='http://www.freevisitorcounters.com'>more on freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=f407a6eca49a455148fbdd7f33b6afccef71897f'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1174246/t/6"></script>
+[<a href='http://www.freevisitorcounters.com'>more on freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=f407a6eca49a455148fbdd7f33b6afccef71897f'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1174246/t/6"></script>]
 #
 # DESCRIPTION 
 Facebook Lite Plus is an android application which provides you a good interface to login multiple facebook accounts with multiple mode and some other customizations.
