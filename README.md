@@ -48,7 +48,7 @@ href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf">
      alt="Get it on Google Play"
      height="80"></a>
 <a
-href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf"><img src="https://static.vecteezy.com/system/resources/previews/028/549/489/original/green-download-button-free-png.png"
+href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf"><img src="https://github.com/N47Noob/Fecebook-lite-Clone-100-app/blob/5645738fa9a733c2d5d5dddae4b352a80892d237/Images/button_server%20(1).png"
      alt="Get it on Google Play"
      height="80"></a> 
 - Zip combine files on different servers:
@@ -57,7 +57,7 @@ href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf">
      alt="Get it on Google Play"
      height="80"></a>
   <a
-href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf"><img src="https://static.vecteezy.com/system/resources/previews/028/549/489/original/green-download-button-free-png.png"
+href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf"><img src="https://github.com/N47Noob/Fecebook-lite-Clone-100-app/blob/5645738fa9a733c2d5d5dddae4b352a80892d237/Images/button_server%20(1).png"
      alt="Get it on Google Play"
      height="80"></a> 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
