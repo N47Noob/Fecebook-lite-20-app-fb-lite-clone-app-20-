@@ -18,13 +18,9 @@ This app is in beta phase so maybe you can encounter with bugs and crashes.
 # FEATURES
 - Improve ui.
 - Support multiple accounts login.
-- Multiple methods of login.
+- Hide SIM & operator info.
 - You can store and define account info for each account separately.
-- Improve cookies method.
-- Facebook video download.
-- Two modes of Facebook style in mobile and cookies method.
-- You can export/import accounts in/from file.
-- You can import accounts from cookies file make sure file follow define patterns.
+- hide MORE information 
 #
 
 # IMAGES
