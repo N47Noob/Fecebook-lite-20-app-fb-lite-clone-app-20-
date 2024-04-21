@@ -43,7 +43,7 @@ If you encounter any bug, error and crash you can contact me on facebook.
      alt="Get it on Google Play"
      height="80"></a>
 
-- Zip combine files on different serversZip combine files on different server:
+- Zip combine files on different servers:
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 <!-- [![Download apk]
 <!-- END LATEST DOWNLOAD BUTTON -->
