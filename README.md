@@ -41,25 +41,25 @@ If you encounter any bug, error and crash you can contact me on facebook.
 <a
 href="https://teraboxapp.com/s/1txhAQU9TTxIVsDD-W4-d2g"><img src="https://static.vecteezy.com/system/resources/previews/028/549/489/original/green-download-button-free-png.png"
      alt="Get it on Google Play"
-     height="60"></a> 
+     height="80"></a> 
 - Split apk file to different servers:
 <a
 href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf"><img src="https://github.com/N47Noob/Fecebook-lite-Clone-100-app/blob/f430111c763b29684fd5591a97a7274d93015337/Images/button_server.png"
      alt="Get it on Google Play"
-     height="40"></a>
+     height="60"></a>
 <a
 href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf"><img src="https://github.com/N47Noob/Fecebook-lite-Clone-100-app/blob/5645738fa9a733c2d5d5dddae4b352a80892d237/Images/button_server%20(1).png"
      alt="Get it on Google Play"
-     height="40"></a> 
+     height="60"></a> 
 - Zip combine files on different servers:
 - <a
 href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf"><img src="https://github.com/N47Noob/Fecebook-lite-Clone-100-app/blob/f430111c763b29684fd5591a97a7274d93015337/Images/button_server.png"
      alt="Get it on Google Play"
-     height="40"></a>
+     height="60"></a>
   <a
 href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf"><img src="https://github.com/N47Noob/Fecebook-lite-Clone-100-app/blob/5645738fa9a733c2d5d5dddae4b352a80892d237/Images/button_server%20(1).png"
      alt="Get it on Google Play"
-     height="40"></a> 
+     height="60"></a> 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 <!-- [![Download apk]
 <!-- END LATEST DOWNLOAD BUTTON -->
