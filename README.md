@@ -44,7 +44,7 @@ href="https://teraboxapp.com/s/1txhAQU9TTxIVsDD-W4-d2g"><img src="https://static
      height="80"></a> 
 - Split apk file to different servers:
 <a
-href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf"><img src="https://static.vecteezy.com/system/resources/previews/028/549/489/original/green-download-button-free-png.png"
+href="https://drive.google.com/drive/folders/11nNLBe99I1qNGIf94B_3Sq3g6XTJYTHf"><img src="Images/button_download(1).png"
      alt="Get it on Google Play"
      height="80"></a>
 <a
